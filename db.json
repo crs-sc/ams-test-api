@@ -5,7 +5,7 @@
       "name": "APMT1",
       "status" : "free",
       "rent" : 1000,
-      "currency" : '€',
+      "currency" : "€",
       "address" : {"street" : "Danziger Str. 100", "zip" : 10000, "city" : "Berlin"},
       "images" : ["https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9"]
     },
@@ -14,7 +14,7 @@
       "name": "APMT2",
       "status" : "free",
       "rent" : 1000,
-      "currency" : '€',
+      "currency" : "€",
       "address" : {"street" : "Danziger Str. 100", "zip" : 10000, "city" : "Berlin"},
       "images" : ["https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9"]
     },
@@ -23,7 +23,7 @@
       "name": "APMT3",
       "status" : "free",
       "rent" : 1000,
-      "currency" : '€',
+      "currency" : "€",
       "address" : {"street" : "Danziger Str. 100", "zip" : 10000, "city" : "Berlin"},
       "images" : ["https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9"]
     }]
